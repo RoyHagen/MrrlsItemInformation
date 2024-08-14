@@ -1,0 +1,9 @@
+## Interface: 110000
+## Title: Mrrls Item Information
+## Author: Riasta-Draenor EU
+## Email: vanirosmond@gmail.com
+## DefaultState: enabled
+## Version: 2.0
+## Notes: Displays what Mrrl is actually sells
+
+mrrl.lua
