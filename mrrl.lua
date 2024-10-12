@@ -9,7 +9,6 @@ local function GameTooltip_OnTooltipSetItem(tooltip)
 	local itemString = string.match(ItemLink, "item[%-?%d:]+")
 	-- print(itemString)
 	local _, itemId = strsplit(":", itemString)
-	-- print(itemId)
 
 	if itemId and itemId == "168094" then
 		tooltip:AddLine(" ") --blank line
