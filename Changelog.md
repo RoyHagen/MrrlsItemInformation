@@ -1,5 +1,8 @@
 ## Changelog
 
+-- 2.0.3
+* Interface version update
+
 -- 2.0 --
 * Updated for WW Pre-Patch
 
