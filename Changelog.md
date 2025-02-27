@@ -1,5 +1,8 @@
 ## Changelog
 
+-- 2.0.4 --
+* version bump for Undermined
+
 -- 2.0.3
 * Interface version update
 
