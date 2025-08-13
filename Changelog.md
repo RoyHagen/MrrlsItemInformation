@@ -1,7 +1,7 @@
 ## Changelog
 
--- 2.0.5 --
-* version bump for 11.2
+-- 2.1 --
+* 11.2
 
 -- 2.0.4 --
 * version bump for Undermined
