@@ -1,5 +1,10 @@
 ## Changelog
 
+-- 2.2.0 --
+* Updated for Midnight prepatch, possibly midnight itself
+* Categorized the mod as a "User Interface" addon
+* Added icon for addon
+
 -- 2.1 --
 * 11.2
 

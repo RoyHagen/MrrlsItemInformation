@@ -1,9 +1,10 @@
-## Interface: 110105
+## Interface: 120001
 ## Title: Mrrls Item Information
+## IconTexture: Interface/Addons/MrrlsItemInformation/art/murloc
+## Category: User Interface
 ## Author: Riasta-Draenor EU
-## Email: vanirosmond@gmail.com
 ## DefaultState: enabled
-## Version: 2.1
+## Version: 2.2.0
 ## Notes: Displays what Mrrl is actually sells
 
 mrrl.lua
