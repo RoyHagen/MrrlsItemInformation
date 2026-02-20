@@ -4,7 +4,7 @@
 ## Category: User Interface
 ## Author: Riasta-Draenor EU
 ## DefaultState: enabled
-## Version: 2.2.0
+## Version: 2.2.1
 ## Notes: Displays what Mrrl is actually sells
 
 mrrl.lua

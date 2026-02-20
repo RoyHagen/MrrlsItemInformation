@@ -11,7 +11,7 @@ local function GameTooltip_OnTooltipSetItem(tooltip)
 	local _, itemId = strsplit(":", itemString)
 
 	if itemId and itemId == "168094" then
-		tooltip:AddLine(" ") --blank line
+		tooltip:AddLine(" ") -- blank line
 		tooltip:AddLine("-- Mrrls Item Information --")
 		tooltip:AddLine("Becomes:")
 		tooltip:AddLine("1x Scrying Stone")
