@@ -4,7 +4,6 @@ local inNazjatar = false
 local function GameTooltip_OnTooltipSetItem(tooltip)
 	if not inNazjatar then return end
 	local itemName, ItemLink = GameTooltip:GetItem();
-	-- print(itemName.." : "..ItemLink)
 	if not ItemLink then return end
 	local itemString = string.match(ItemLink, "item[%-?%d:]+")
 	-- print(itemString)
