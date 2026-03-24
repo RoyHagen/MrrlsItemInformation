@@ -6,7 +6,6 @@ local function GameTooltip_OnTooltipSetItem(tooltip)
 	local itemName, ItemLink = GameTooltip:GetItem();
 	if not ItemLink then return end
 	local itemString = string.match(ItemLink, "item[%-?%d:]+")
-	-- print(itemString)
 	local _, itemId = strsplit(":", itemString)
 
 	if itemId and itemId == "168094" then
